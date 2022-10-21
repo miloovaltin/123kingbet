@@ -1,16 +1,16 @@
 {
-"name": "123kingbet",
-"theme": "123king bet",
-"version": "7.10.7",
-"description": "123king bet ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"123king bet",
-"123king bet เครดิตฟรี",
-"123king bet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/123kingbet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "123kingbet",
+  "theme": "123king bet",
+  "version": "7.11.0",
+  "description": "123king bet ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "123king bet",
+    "123king bet เครดิตฟรี",
+    "123king bet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/123kingbet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
